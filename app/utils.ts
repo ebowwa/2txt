@@ -1,3 +1,4 @@
+// app/utils.ts
 type SupportedImageTypes =
 	| "image/jpeg"
 	| "image/png"

@@ -1,3 +1,4 @@
+// middleware.ts
 import type { NextRequest } from "next/server";
 
 const blockedCountries = process.env.BLOCKED_COUNTRIES?.split(" ");

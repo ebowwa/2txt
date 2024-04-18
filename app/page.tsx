@@ -1,4 +1,5 @@
 "use client";
+// app/page.tsx
 
 import { useEffect, useRef, useState } from "react";
 import clsx from "clsx";
