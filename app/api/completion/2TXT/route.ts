@@ -1,3 +1,4 @@
+// app/api/completion/route.ts
 import Anthropic from "@anthropic-ai/sdk";
 import { AnthropicStream, StreamingTextResponse } from "ai";
 import { isSupportedImageType } from "@/app/utils";
